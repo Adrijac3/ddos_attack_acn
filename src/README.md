@@ -17,7 +17,7 @@ The experiments were carried out in MacOS BigSur 11.6 and Ubuntu 20.04
 
 ### Scapy
 * If scapy is not present, it can be installed by typing the following command:
-  * `$ sudo apt-get install python3-scapy"
+  * `$ sudo apt-get install python3-scapy`
 
 ### xterm
 * If xterm is not present, it can be installed by typing the following command:
